@@ -1,0 +1,19 @@
+# .NET / Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+TestResults/
+
+# Node / Vite / pnpm
+node_modules/
+dist/
+dist-ssr/
+*.local
+.env
+
+# OS / Editors
+.DS_Store
+Thumbs.db

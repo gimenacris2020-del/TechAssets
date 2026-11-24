@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TechAssets.API/TechAssets.API.csproj" />
+  <Project Path="TechAssets.Application/TechAssets.Application.csproj" />
+  <Project Path="TechAssets.Domain/TechAssets.Domain.csproj" />
+  <Project Path="TechAssets.Infrastructure/TechAssets.Infrastructure.csproj" />
+</Solution>
